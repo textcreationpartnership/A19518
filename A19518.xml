@@ -1,0 +1,779 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short catechisme Very necessary, for the plaine vnderstanding of the principall points of Christian religion. Meet to be practised of all Christians before they bee admitted to the Lord's Supper By Richard Cox.</title>
+            <author>Coxe, Richard, d. 1596.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19518</idno>
+            <idno type="STC">STC 5948</idno>
+            <idno type="STC">ESTC S114496</idno>
+            <idno type="EEBO-CITATION">99849721</idno>
+            <idno type="PROQUEST">99849721</idno>
+            <idno type="VID">14884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14884)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1347:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short catechisme Very necessary, for the plaine vnderstanding of the principall points of Christian religion. Meet to be practised of all Christians before they bee admitted to the Lord's Supper By Richard Cox.</title>
+                  <author>Coxe, Richard, d. 1596.</author>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw: All-de, for Iohn Tap, and are to be solde at his shop neare St. Magnus corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A necessary catechisme.</note>
+                  <note>Signatures: A B⁴ (A1 and B4 blank).</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14884:1"/>
+            <pb facs="tcp:14884:1" rendition="simple:additions"/>
+            <p>A SHORT CATECHISME.</p>
+            <p>Very neceſſary, for the plaine vnderſtanding of the principall points of Chri<g ref="char:EOLhyphen"/>ſtian Religion.</p>
+            <p>Meet to be practiſed of all Chriſtians before they bee admitted to the <hi>Lords Supper.</hi>
+            </p>
+            <p>By RICHARD COX.</p>
+            <bibl>PSAL. 34.</bibl>
+            <q>Come Children, hearken vnto <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: I will teach you the feare of the Lord.</q>
+            <bibl>DEVT. 6. 6. 7.</bibl>
+            <q>Theſe wordes which I commaund thee, this day, ſhall be in thine heart, and thou ſhalt re<g ref="char:EOLhyphen"/>hearſe them continually vnto thy children, and ſhalt talke of them when thou tarryeſt in thine houſe, as thou walkeſt by the way, and when thou lyeſt downe and when thou riſeſt vp.</q>
+            <p>LONDON. Printed by <hi>Edw: All-de,</hi> for <hi>Iohn Tap,</hi> and are to be ſolde at his ſhop neare St. <hi>Magnus</hi> corner. 1620.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:14884:2"/>
+            <pb facs="tcp:14884:2"/>
+            <head>
+               <hi>A neceſſary Catechiſme,</hi> Containing a true Declaration of of the principall points of Chriſtian Religion, very meete to be vnderſtood of all thoſe which haue a deſire of <hi>their Saluation.</hi>
+            </head>
+            <p>
+               <hi>Queſtion.</hi> 
+               <seg rend="decorInit">O</seg>F what Religion are you?</p>
+            <p>
+               <hi>Anſwer.</hi> Of the Chriſtian Religion.</p>
+            <p>
+               <hi>Q.</hi> What is the Chriſtian Religion?</p>
+            <p>
+               <hi>A.</hi> The true worſhipping of God.</p>
+            <p>
+               <hi>Q.</hi> Where is it to be learned?</p>
+            <p>
+               <hi>A.</hi> Out of the Worde of God, contained in the olde and new Teſtament.</p>
+            <p>
+               <hi>Q.</hi> Which are the chiefeſt partes of the worde of God?</p>
+            <p>
+               <hi>A.</hi> The Law and the Goſpell.</p>
+            <pb facs="tcp:14884:3"/>
+            <p>
+               <hi>Q.</hi> What is the Law?</p>
+            <p>
+               <hi>A.</hi> That which teacheth vs our duty to<g ref="char:EOLhyphen"/>wards God and our neighbour.</p>
+            <p>
+               <hi>Q.</hi> What is the Goſpell?</p>
+            <p>
+               <hi>A.</hi> That which promiſeth forgiueneſſe to the offenders of the Law through faith in Chriſt, that repent and purpoſe to a<g ref="char:EOLhyphen"/>mend.</p>
+            <p>
+               <hi>Q.</hi> How many partes are there of true Religion?</p>
+            <p>
+               <hi>A.</hi> Two, Obedience and Faith!</p>
+            <p>
+               <hi>Q.</hi> What is Obedience?</p>
+            <p>
+               <hi>A.</hi> A doing of that which the Law com<g ref="char:EOLhyphen"/>maundeth.</p>
+            <p>
+               <hi>Q.</hi> What is Faith?</p>
+            <p>
+               <hi>A.</hi> A beléeuing of that which the Goſpell teacheth.</p>
+            <p>
+               <hi>Q.</hi> Into how many Tables is the Law deuided?</p>
+            <p>
+               <hi>A.</hi> Into two Tables.</p>
+            <p>
+               <hi>Q.</hi> What doth the firſt Table concerne?</p>
+            <p>
+               <hi>A.</hi> Our dutie to wards God which is con<g ref="char:EOLhyphen"/>tained in the foure firſt Commaunde<g ref="char:EOLhyphen"/>ments.</p>
+            <p>
+               <hi>Q.</hi> What doth the ſecond table concerne?</p>
+            <p>
+               <hi>A.</hi> Our duty towards our Neighbour, which is contained in the fire laſt Com<g ref="char:EOLhyphen"/>maundements.</p>
+            <pb facs="tcp:14884:3"/>
+            <p>
+               <hi>Q.</hi> How many Commaundements are there?</p>
+            <p>
+               <hi>A.</hi> Ten.</p>
+            <p>
+               <hi>Q.</hi> Which be they?</p>
+            <p>
+               <hi>A.</hi> I am the Lord thy God, &amp;c.</p>
+            <p>
+               <hi>Q.</hi> What is the firſt Commandement?</p>
+            <p>
+               <hi>A.</hi> Thou ſhalt haue none other Gods but me.</p>
+            <p>
+               <hi>Q.</hi> What is the ſumme thereof?</p>
+            <p>
+               <hi>A.</hi> It teacheth to ſerue and worſhip God alone.</p>
+            <p>
+               <hi>Q.</hi> In howe many pointes ſtandeth this worſhip?</p>
+            <p>
+               <hi>A.</hi> In foure: Firſt to loue God aboue all: Secondly, to feare God aboue all: Thirdly, to pray vnto God and to none but him: Fourthly, to truſt alone in him.</p>
+            <p>
+               <hi>Q.</hi> What is the ſecond Commandement?</p>
+            <p>
+               <hi>A.</hi> Thou ſhalt, not make to thy ſelfe any granen Image. &amp;c.</p>
+            <p>
+               <hi>Q.</hi> What doe you learne in this comman<g ref="char:EOLhyphen"/>dement?</p>
+            <p>
+               <hi>A.</hi> Firſt that wée may make no image of God in any caſe. Secondly, that wée make no image of any other thing,
+<pb facs="tcp:14884:4"/> either to worſhip the image or any other thing by it. Thirdly, that wée worſhip not God after our owne fantaſies.</p>
+            <p>
+               <hi>Q.</hi> What is the third Commandement?</p>
+            <p>
+               <hi>A.</hi> Thou ſhalt not take the name of the Lord thy God in vaine. &amp;c.</p>
+            <p>
+               <hi>Q.</hi> What is the end of this Law?</p>
+            <p>
+               <hi>A.</hi> It teacheth me to vſe the name of God in high reuerence, both in tongue and thought.</p>
+            <p>
+               <hi>Q.</hi> How many leſſons learne you out of this?</p>
+            <p>
+               <hi>A.</hi> Firſt it is ſinne and blaſphemie to ap<g ref="char:EOLhyphen"/>ply the name of God to enchantment, ſorcerie, curſing or periury. Secondly, to ſweare by Creatures, is a ſetting of his name at naught. Thirdly, in our ordinarie communication we muſt not ſweare.</p>
+            <p>
+               <hi>Q.</hi> By whom muſt we ſweare?</p>
+            <p>
+               <hi>A.</hi> By God, for it is a part of his glorie, which he will giue to none other.</p>
+            <p>
+               <hi>Q.</hi> In what cauſe, or where is it lawfull to ſweare?</p>
+            <p>
+               <hi>A.</hi> Where the glorie of God is ſought, or the ſaluation of our brethren or before a Magiſtrate.</p>
+            <pb facs="tcp:14884:4"/>
+            <p>
+               <hi>Q.</hi> What is the fourth Commandement?</p>
+            <p>
+               <hi>A.</hi> Renember that thou kéepe holy the Saboth day, &amp;c.</p>
+            <p>
+               <hi>Q.</hi> What is the end and dri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of this?</p>
+            <p>
+               <hi>A.</hi> The Lord appointeth herein, that all his creatures ſhould haue a time to reſt and ſerue him.</p>
+            <p>
+               <hi>Q.</hi> What muſt we doe on the Saboth?</p>
+            <p>
+               <hi>A.</hi> Holy thinges: as heare and learns the word of God Preached, pray, and receiue the Sacraments.</p>
+            <p>
+               <hi>Q.</hi> What things muſt we not doe?</p>
+            <p>
+               <hi>A.</hi> Thoſe things that neceſſitie doth not compell, nor holineſſe commaund.</p>
+            <p>
+               <hi>Q.</hi> Who muſt kéepe the Saboth day?</p>
+            <p>
+               <hi>A.</hi> Thou, thy Sonne, thy Daughter, thy man, thy maide, thy Cattell, and thy ſtranger.</p>
+            <p>
+               <hi>Q.</hi> What is the firſt Commaundement?</p>
+            <p>
+               <hi>A.</hi> Honor thy Father and thy Mother, &amp;c.</p>
+            <p>
+               <hi>Q.</hi> What is meant by honour?</p>
+            <p>
+               <hi>A.</hi> Toloue, feare, obey and relieue.</p>
+            <p>
+               <hi>Q.</hi> What is meant by Father and Mo<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <hi>A.</hi> Our naturall Parentes, the fathers of our Country, or of our houſes, the aged and fathers in Chriſt.</p>
+            <pb facs="tcp:14884:5"/>
+            <p>
+               <hi>Q.</hi> How is the bleſſing of long life giuen when the diſobedient liue long, and the obedient and good for the moſt part die ſpeedyly?</p>
+            <p>
+               <hi>A.</hi> The wicked liue to further their den<g ref="char:EOLhyphen"/>geance, and the good inioy it, ſo far as it ſhall be good for them.</p>
+            <p>
+               <hi>Q.</hi> What is the ſixt commandement?</p>
+            <p>
+               <hi>A.</hi> Thou ſhalt not kill.</p>
+            <p>
+               <hi>Q.</hi> What learne you herein?</p>
+            <p>
+               <hi>A.</hi> Firſt I learne to tie my hand, tongue, and countenance to peace, from fighting quarelling and mocking: Secondly to anoyde all anger in heart: Thirdly, I am co<g ref="char:cmbAbbrStroke">̄</g>manded to preſerue life: Fourth<g ref="char:EOLhyphen"/>ly, to loue others, euen mine enemies.</p>
+            <p>
+               <hi>Q.</hi> What is the ſeauenth Commaunde<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>A.</hi> Thou ſhalt not commit Adultery.</p>
+            <p>
+               <hi>Q.</hi> How many leſſons learne you out of this?</p>
+            <p>
+               <hi>A.</hi> Firſt, that God forbiddeth all adulte<g ref="char:EOLhyphen"/>rie, and vncleaneſſe in our bodies: Se<g ref="char:EOLhyphen"/>condly, all impure thoughts: Thirdly, all vnchaſte behauiour, talke, ſongs, ap<g ref="char:EOLhyphen"/>parell and paſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that may intice vs to ſuch vncleannes: Fourthly, we are
+<pb facs="tcp:14884:5"/> commanded to kéepe our bodies chaſſe, as the Temples of the holy Ghoſt.</p>
+            <p>
+               <hi>Q.</hi> What is the eight cammandement?</p>
+            <p>
+               <hi>A.</hi> Thou ſhalt not ſteale.</p>
+            <p>
+               <hi>Q.</hi> What thinges are forbidden herein?</p>
+            <p>
+               <hi>A.</hi> Firſt, all ſtealing and robbing: Se<g ref="char:EOLhyphen"/>condly, all deſire of any other mans goods wrongfully in my heart: Third<g ref="char:EOLhyphen"/>ly, all vnlawfull gaines.</p>
+            <p>
+               <hi>Q.</hi> What thinges are commaunded here<g ref="char:EOLhyphen"/>in?</p>
+            <p>
+               <hi>A.</hi> Firſt, to bée content with the portion that God hath ſent vs. Secondly, to la<g ref="char:EOLhyphen"/>bour for our owne liuing. Thirdly, to be helpfull to them that néede.</p>
+            <p>
+               <hi>Q.</hi> What is the ninth commandement?</p>
+            <p>
+               <hi>A.</hi> Thou ſhalt not beare falſe witneſſe a<g ref="char:EOLhyphen"/>gainſt thy neighbour.</p>
+            <p>
+               <hi>Q.</hi> What leſſons learne you hereout?</p>
+            <p>
+               <hi>A.</hi> Firſt, we are forbidden to ſpeake falſly in witnes bearing: Secondly, to lye, flatter, or diſſemble: Thirdly, that we neuer backvite any man: Fourthly, in priuate offences to ſay nothing of our brother, if by priuat admonitions hée may be wonne.</p>
+            <p>
+               <hi>Q.</hi> What, is the tenth commandement?</p>
+            <pb facs="tcp:14884:6"/>
+            <p>
+               <hi>A.</hi> Thou ſhalt not couer thy neighbours houſe. &amp;c.</p>
+            <p>
+               <hi>Q.</hi> What learne we herein?</p>
+            <p>
+               <hi>A.</hi> Hereby I learne that the motions of our hart ſeperate from the loue of God, and our neighbour, though wée neuer yéeld conſent to it, is ſinne.</p>
+            <p>
+               <hi>Q.</hi> Is any man able to kéepe theſe com<g ref="char:EOLhyphen"/>mandements?</p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>
+               <hi>Q.</hi> What is the breach of the law?</p>
+            <p>
+               <hi>A.</hi> Sinne.</p>
+            <p>
+               <hi>Q.</hi> What is the reward of ſinne?</p>
+            <p>
+               <hi>A.</hi> Eternall death.</p>
+            <p>
+               <hi>Q.</hi> Shall I eſcape death by the woorkes of the law?</p>
+            <p>
+               <hi>A.</hi> No, for the Law is the miniſter of death.</p>
+            <p>
+               <hi>Q.</hi> Sith the Law then doth not iuſtifie but condemne, what profite hath a chriſtian man by it?</p>
+            <p>
+               <hi>A.</hi> Firſt, it is a ſtay for Gods children to walke in. Secondly, it teacheth man not to truſt in his owne innocencie. Third<g ref="char:EOLhyphen"/>ly, it pulleth downe the pride of man, and humbleth him before God. Fourth<g ref="char:EOLhyphen"/>ly, it is a Schoolemaſter to Chriſt.</p>
+            <pb facs="tcp:14884:6"/>
+            <p>
+               <hi>Q.</hi> As you haue ſhewed me the profit of the Law, ſo tell me why wée ſhould doe good workes, ſith they doe not ſaue.</p>
+            <p>
+               <hi>A.</hi> Firſt to ſhow our loue to God our Fa<g ref="char:EOLhyphen"/>ther, in walking as becommeth his children. Secondly, to ſhow our loue to our ſelues, to make vs certaine of our Election. Thirdly, to winne our brethren to Chriſt, by our godly conuer<g ref="char:EOLhyphen"/>ſation.</p>
+            <p>
+               <hi>Q.</hi> How many thinges are principally to be conſidered in good workes?</p>
+            <p>
+               <hi>A.</hi> Firſt that they be ruled by the line of Gods worde. Secondly, that they pro<g ref="char:EOLhyphen"/>céed from a heart purged by Faith.</p>
+            <p>
+               <hi>Q.</hi> By what meanes ſhall I eſcape death?</p>
+            <p>
+               <hi>A.</hi> By Faith in Chriſt.</p>
+            <p>
+               <hi>Q.</hi> What is Faith?</p>
+            <p>
+               <hi>A.</hi> A full perſwaſion and ſtedfaſt aſſu<g ref="char:EOLhyphen"/>rance of the promiſes of Chriſt, wronght in my heart by the holy Ghoſt.</p>
+            <p>
+               <hi>Q.</hi> Vpon whom muſt Faith be ſetled?</p>
+            <p>
+               <hi>A.</hi> Vpon Chriſt Ieſus.</p>
+            <p>
+               <hi>Q.</hi> What profite haue you by this?</p>
+            <p>
+               <hi>A.</hi> I am aſſured that all the benefites of Chriſts paſſion, and his righteouſnes, are as ſurely mine, as if I had wrought
+<pb facs="tcp:14884:7"/> them my ſelfe.</p>
+            <p>
+               <hi>Q.</hi> How many Articles of the Faith are there, and which he they?</p>
+            <p>
+               <hi>A.</hi> Twelue: I beléeue in God the Father, &amp;c.</p>
+            <p>
+               <hi>Q.</hi> How many things doe the Articles ſet downe?</p>
+            <p>
+               <hi>A.</hi> Firſt concerning God the Father in the firſt Article. Secondly, concerning God the ſonne, in the ſixe next Articles. Thirdly, concerning God the holy Ghoſt, in the eight article. Fourthly, concerning Gods people, called the Church in the foure laſt.</p>
+            <p>
+               <hi>Q.</hi> What is the firſt Article?</p>
+            <p>
+               <hi>A.</hi> I beléeue in God the Father almighty maker of Heauen and earth.</p>
+            <p>
+               <hi>Q.</hi> How many thinges doe you learne in the firſt Article?</p>
+            <p>
+               <hi>A.</hi> Firſt that God is my Father, and that I am his childs: Secondly, that he be<g ref="char:EOLhyphen"/>ing Almighty, and I his Childs, I ſhall lacke nothing.</p>
+            <p>
+               <hi>Q.</hi> What is the ſecond article?</p>
+            <p>
+               <hi>A.</hi> And in Ieſus Chriſt, his onely Sonne our Lord.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this article?</p>
+            <pb facs="tcp:14884:7"/>
+            <p>
+               <hi>A.</hi> I learne that Ieſus Chriſt is the only ſonne of God, and my Lord: Secondly, that he is God, able to beare whatſoe<g ref="char:EOLhyphen"/>uer is doe for our ſinnes.</p>
+            <p>
+               <hi>Q.</hi> What is the third article?</p>
+            <p>
+               <hi>A.</hi> Which was conceiued by the holy Ghoſt, borne of the virgin Mary.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this article?</p>
+            <p>
+               <hi>A.</hi> Firſt, I learne that he was of God the ſubſtance of his Father before the world. Secondly, that he was Man of the ſubſtance of his Mother, borne <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the world.</p>
+            <p>
+               <hi>Q.</hi> What is the fourth article?</p>
+            <p>
+               <hi>A.</hi> He ſuffered vnder Pontius Pilats, was Crucified, dead and buryed, he de<g ref="char:EOLhyphen"/>ſcended into Hell.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this article?</p>
+            <p>
+               <hi>A.</hi> Firſt, the paſſions that he ſuffered in body for the redemption of my body? Secondly, the paſſion that he ſuffered in ſoule for the deliuerance of my ſoule, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ely that he humbled himſelfe vnto the to torments of Hell for our ſaluation.</p>
+            <p>
+               <hi>Q.</hi> What is the firſt article?</p>
+            <p>
+               <hi>A.</hi> The third day he roſe againe from the dead.</p>
+            <pb facs="tcp:14884:8"/>
+            <p>
+               <hi>Q.</hi> What learne you out of this Article?</p>
+            <p>
+               <hi>A.</hi> Firſt, that he is riſen and hath ouer<g ref="char:EOLhyphen"/>come Death and Hell for my iuſtificati<g ref="char:EOLhyphen"/>on. Secondly, I learne to riſe from ſinne and to delight in righteouſnes. Thirdly, by his riſing, I am aſſured that my body ſhall riſe againe.</p>
+            <p>
+               <hi>Q.</hi> What is the ſixt Article?</p>
+            <p>
+               <hi>A.</hi> He aſcended into Heauen, and fifteth on the right hand of God the Father al<g ref="char:EOLhyphen"/>mighty.</p>
+            <p>
+               <hi>Q.</hi> VVhat learne you out of this Article?</p>
+            <p>
+               <hi>A.</hi> Firſt, his Aſcention is a pledge to me, that I likewiſe ſhall aſcend after him. Secondly, he being aſcended, I learne that he maketh prayer for me. Thirdly, by his ſitting at the right hand (with the power of God) I beléeue that all power is giuen to him.</p>
+            <p>
+               <hi>Q.</hi> VVhat is the ſeauenth Article?</p>
+            <p>
+               <hi>A.</hi> From thence he ſhall come to iudge both the quicke and the dead.</p>
+            <p>
+               <hi>Q.</hi> VVhat learne you out of this Article?</p>
+            <p>
+               <hi>A.</hi> Firſt, I learne to my comfort, that hée that is my Sauiour, ſhall he my iudge Secondly, to the terrour of the vngod<g ref="char:EOLhyphen"/>ly, that he ſhall be their Iudge, whome
+<pb facs="tcp:14884:8"/> they haue refuſed and deſpiſed.</p>
+            <p>
+               <hi>Q.</hi> What is the eight article?</p>
+            <p>
+               <hi>A.</hi> I beléeue in the holy Ghoſt.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this article?</p>
+            <p>
+               <hi>A.</hi> Firſt, I beléeue the holy Ghoſt to bée God, who dooth aſſure me that I am his childe, and that all his benefites are mine. Secondly, hée maketh ſinne to die in me, and ſtirreth me vp to holines of life.</p>
+            <p>
+               <hi>Q.</hi> What is the ninth article?</p>
+            <p>
+               <hi>A.</hi> The holy Catholique Church, the communion of Saintes.</p>
+            <p>
+               <hi>Q.</hi> What learne you in this article?</p>
+            <p>
+               <hi>A.</hi> Firſt, that God hath one uniuerſall Church in all places of the world, and at all times: Secondly, that in the ſame there is a fellowſhip of Saints, of true faith full people, all which the Lord knoweth, of which number I be<g ref="char:EOLhyphen"/>léeue my ſelfe to be one.</p>
+            <p>
+               <hi>Q.</hi> What is the tenth article?</p>
+            <p>
+               <hi>A.</hi> The forgiueneſſe of ſinnes.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this article?</p>
+            <p>
+               <hi>A.</hi> Firſt I beléeue that Chriſt hath ſuffe<g ref="char:EOLhyphen"/>red whatſoeuer was due for my ſinnes: Secondly, that my ſinnes being forgi<g ref="char:EOLhyphen"/>uen,
+<pb facs="tcp:14884:9"/> ſhall neuer be laid to my charge a<g ref="char:EOLhyphen"/>gaint.</p>
+            <p>
+               <hi>Q.</hi> What is the eleuenth article?</p>
+            <p>
+               <hi>A.</hi> The reſurrection of the body.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this article?</p>
+            <p>
+               <hi>A.</hi> Firſt that my body ſhall riſe from the earth: Secondly, that it ſhall riſe a glorious body.</p>
+            <p>
+               <hi>Q.</hi> What is the twelfth article?</p>
+            <p>
+               <hi>A.</hi> The life euerlaſting.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of this article?</p>
+            <p>
+               <hi>A.</hi> I beleeue that I ſhall liue with Chriſt for euer in his Kingdome.</p>
+            <p>
+               <hi>Q.</hi> By what meanes may we attaine this Faith, and haue it maintained and ſtrengthened in vs?</p>
+            <p>
+               <hi>A.</hi> Firſt, by hearing the word preached: Secondly, by the wonderfull and ſe<g ref="char:EOLhyphen"/>cret infuſion of Gods ſpirit: Third<g ref="char:EOLhyphen"/>ly, by receiuing the Sacraments: Fourthly, by prayer.</p>
+            <p>
+               <hi>Q.</hi> What is a Sacraments?</p>
+            <p>
+               <hi>A.</hi> It is an outward and viſible ſigne, in<g ref="char:EOLhyphen"/>ſtituted and ordayned of the Lord, to confirme the promiſes, and couenants of God made to vs in the Goſpell, in the hearts of the faithfull.</p>
+            <pb facs="tcp:14884:9"/>
+            <p>
+               <hi>Q.</hi> What doe you learne out of this defi<g ref="char:EOLhyphen"/>nition?</p>
+            <p>
+               <hi>A.</hi> Firſt, that a Sacrament is a ſigne of an other thing, which is ſignified. Se<g ref="char:EOLhyphen"/>condly, that euery Sacrament, muſt haue his inſtitution of the Lord. Thirdly, that it is a pledge or ſcale of the promiſe of ſaluation. Laſtly, in all Sacraments, we muſt conſider, firſt the outward and viſible ſinne: Second<g ref="char:EOLhyphen"/>ly, the thing thereby ſignified: Third<g ref="char:EOLhyphen"/>ly, the proportion or agreement which is betwéene the one and the other.</p>
+            <p>
+               <hi>Q.</hi> Why doe you ſay this is a Signe?</p>
+            <p>
+               <hi>A.</hi> Becauſe it is a thing which the Lord ſetteth before <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, to ſignifie a thing which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Q.</hi> Why muſt it be inſtituted of God onely?</p>
+            <p>
+               <hi>A.</hi> He onely muſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Signe, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the promiſe of ſaluation.</p>
+            <p>
+               <hi>Q.</hi> Why muſt it be a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeale of the promiſe of ſaluation?</p>
+            <p>
+               <hi>A.</hi> Becauſe it is giuen vs of the Lord for the confirmation of our faith, which is grounded vpon the promiſe of ſaluation.</p>
+            <pb facs="tcp:14884:10"/>
+            <p>
+               <hi>Q.</hi> What is the outward and viſible ſigne in Baptiſme?</p>
+            <p>
+               <hi>A.</hi> Water.</p>
+            <p>
+               <hi>Q.</hi> What is ſignified thereby?</p>
+            <p>
+               <hi>A.</hi> The blood of Chriſt Ieſus, which was ſhed for our ſinnes.</p>
+            <p>
+               <hi>Q.</hi> What proportion or agréement is there betwéene the water of Baptiſme, and the blood of Ieſus Chriſt?</p>
+            <p>
+               <hi>A.</hi> As the water doth waſh away the fil<g ref="char:EOLhyphen"/>thineſſe of the body, ſo our ſoules being ſprinckled with the Blood of Ieſus Chriſt, are waſhed and purged from the filthines and pollution of ſinne.</p>
+            <p>
+               <hi>Q.</hi> Is there any difference betwéene wa<g ref="char:EOLhyphen"/>ter in Baptiſme and other water?</p>
+            <p>
+               <hi>A.</hi> Not as concerning the ſubſtance, but they differ in vſe: For common water ſerueth to waſh the body, but water in Baptiſme is a Sacrament of the wa<g ref="char:EOLhyphen"/>ſhing of the ſoule.</p>
+            <p>
+               <hi>Q.</hi> Wherefore are we but once baptized, ſince wée are commanded oftentimes to receiue the Supper?</p>
+            <p>
+               <hi>A</hi> Becauſe as Circumciſion was to the Iewes, ſo Baptiſme is to vs an en<g ref="char:EOLhyphen"/>trance and admiſſion into the Church
+<pb facs="tcp:14884:10"/> of God. And it is ſufficient for vs once to be admitted into Gods familie, and therefore, as they were but once cir<g ref="char:EOLhyphen"/>cumciſed, ſo muſt we but once be bapti<g ref="char:EOLhyphen"/>zed: yet that we may remaine and con<g ref="char:EOLhyphen"/>tinue in this familie &amp; Church of God, it is neceſſarie that wée bée fed often<g ref="char:EOLhyphen"/>times, and therefore we muſt often re<g ref="char:EOLhyphen"/>ceiue the Sacrament of the Supper, as the Iewes did euery yeare celebrate the Paſſ-ouer.</p>
+            <p>
+               <hi>Q.</hi> What are the outward and viſible ſignes in the Lords Supper?</p>
+            <p>
+               <hi>A.</hi> Bread and wine.</p>
+            <p>
+               <hi>Q.</hi> What dooth the bread ſignifie?</p>
+            <p>
+               <hi>A.</hi> The body of Chriſt.</p>
+            <p>
+               <hi>Q.</hi> What doth the wine ſignifie?</p>
+            <p>
+               <hi>A.</hi> The blood of Chriſt.</p>
+            <p>
+               <hi>Q.</hi> Why hath the Lord inſtituted two ſignes in the Supper, and but one in the Baptiſme.</p>
+            <p>
+               <hi>A.</hi> As our bodies are not ſuſtained by meat onely, but alſo by drinke, ſo the Lord would aſſure vs, that wée are not fed to halfs, as it were, but Chriſt he is both meat and drinke vnto vs.</p>
+            <p>
+               <hi>Q.</hi> What is the reſembling or proportion
+<pb facs="tcp:14884:11"/> betwixt the Signe and the thing ſig<g ref="char:EOLhyphen"/>nified?</p>
+            <p>
+               <hi>A.</hi> That as our bodyes, by the hands and mouth receiuing theſe outward things of Bread and Wine, are thereby nou<g ref="char:EOLhyphen"/>riſhed indéed: ſo aſſuredly we appre<g ref="char:EOLhyphen"/>hending by Faith the Paſſion and Blood-ſhedding of Ieſus Chriſt, our ſoules are thereby nouriſhed and fed to eternall life, hauing out ſinnes re<g ref="char:EOLhyphen"/>mitted, and Chriſts death and righte<g ref="char:EOLhyphen"/>ouſnes impu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed vnto vs.</p>
+            <p>
+               <hi>Q.</hi> Is the Bread and Wine in the Sa<g ref="char:EOLhyphen"/>crament the ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e which other common bread and wine is?</p>
+            <p>
+               <hi>A.</hi> They are the ſame in Subſtance and Nature, but the holy vſe whereunto they are applyed, make them differ, from common bread and co<g ref="char:cmbAbbrStroke">̄</g>mon wine.</p>
+            <p>
+               <hi>Q.</hi> Is not the Bread turned into the Body, and the Wine into the Blood of Chriſt?</p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>
+               <hi>Q.</hi> But doth not our Sauiour Chriſt ſay, this is my Body, when he gaue the Bread, and this my Blood when he gaue the Wine?</p>
+            <pb facs="tcp:14884:11"/>
+            <p>
+               <hi>A.</hi> Yea, but they are figurati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſpéeches, attributing the name of the thing ſig<g ref="char:EOLhyphen"/>nified vnto the thing ſignifying, as al<g ref="char:EOLhyphen"/>ſo in the olde Sacraments, Circumci<g ref="char:EOLhyphen"/>ſion was called the Couenant, which was but a ſigne of the couenant, the Paſcall Lambe, was called the Paſſe-ouer, the rocke was called Chriſt.</p>
+            <p>
+               <hi>Q.</hi> Why is the ſigne called by the name of the thing ſignified?</p>
+            <p>
+               <hi>A.</hi> Becauſe we ſhould lift vp our mindes from thoſe earthly and corporal things vnto the heauenly and ſpiritual things which are ſignified by them.</p>
+            <p>
+               <hi>Q.</hi> Shew me more plainely, how the Bread and Wine repreſent vnto vs the body and blood of Chriſt.</p>
+            <p>
+               <hi>A.</hi> As Bread and Wine haue a property to nouriſh and maintain vs in this pre<g ref="char:EOLhyphen"/>ſent life, ſo by the partaking of the body and blood of Chriſt, our ſoules are nou<g ref="char:EOLhyphen"/>riſhed in the hope of ouerlaſting life, ſo that we are not partakers onely of the bread and wine, but of the body &amp; blood of Chriſt, becauſe he hath ſaid, This is my Body, this is my Blood: and the Bread and Wine, which is giuen
+<pb facs="tcp:14884:12"/> and receiued, is ſtill Bread and Wine naturally but yet the body and blood of Chriſt Sacramentally: For the Bread and Wine kéepe alwayes the firſt nature, but in as much as they are Signes and ſeales, they haue the name of the thinges which they ſeale and ſig<g ref="char:EOLhyphen"/>nifie: neither is Chriſts body and blood incloſed in the Bread and wine, for he aſcended into Heauen, where he muſt be vntill the time of the reſtoring of all thinges, and according to his diuine Nature, power, and preſence of his holy Spirit, he is preſent, and will be vnto the end of the world. And al<g ref="char:EOLhyphen"/>though the body of Chriſt be in Hea<g ref="char:EOLhyphen"/>uen, and wee be on the earth, yet tho<g ref="char:EOLhyphen"/>rough a true and a liuely Faith, which aſcendeth and taketh holde of the mer<g ref="char:EOLhyphen"/>cies of God in the merits of Chriſt Ie<g ref="char:EOLhyphen"/>ſus, we goe vp into heauen, and he commeth downe to vs by his Spirit, which can eaſily ioyne together things that be ſundred.</p>
+            <p>
+               <hi>Q.</hi> To what end doe we receiue the Sa<g ref="char:EOLhyphen"/>crament of the Supper?</p>
+            <p>
+               <hi>A.</hi> Firſt for the ſtrengthening of Faith.
+<pb facs="tcp:14884:12"/> Secondly, for a teſtimony of our obe<g ref="char:EOLhyphen"/>dience and thankfulnes vnto God for the worke of our redemption. Thirdly for the increaſe of loue and amitie: For there is alwayes a Communion of Saints in the Church of God, which eſpecially conſiſteth in this, that all the children of God are members of the ſame body, and partakers of the ſame Sauiour and redeemer, Ieſus Chriſt.</p>
+            <p>
+               <hi>Q.</hi> That we may be worthy Communi<g ref="char:EOLhyphen"/>cants of this Supper, how muſt wee prepare our ſelues vnto it?</p>
+            <p>
+               <hi>A.</hi> We muſt firſt try and examine our ſelues concerning the doctrine of a Sa<g ref="char:EOLhyphen"/>crament, whether wée doe rightly vn<g ref="char:EOLhyphen"/>derſtand or conceiue of it or no: Se<g ref="char:EOLhyphen"/>condly, concerning our manners and life, whether wee be fit to receiue it at the time appointed.</p>
+            <p>
+               <hi>Q.</hi> How muſt wée examine our ſelues concerning the doctrine.</p>
+            <p>
+               <hi>A.</hi> By entring into conſideration of that which the holy Ghoſt hath written and ſet downe of it, whether we doe fully vnderſtand and know it, and whether our heartes and conſciences can wil<g ref="char:EOLhyphen"/>lingly
+<pb facs="tcp:14884:13"/> ſubſcribe and yeeld vnto that which is taught to be the truth of it.</p>
+            <p>
+               <hi>Q.</hi> Is this examination of our ſelues, concerning the doctrine, neceſſary?</p>
+            <p>
+               <hi>A.</hi> Yea, otherwiſe how ſhal we know how to behaue our ſelues in this holy acti<g ref="char:EOLhyphen"/>on, except we know what it is that we doe, and for what end and purpoſe.</p>
+            <p>
+               <hi>Q.</hi> How muſt we examine our ſelues con<g ref="char:EOLhyphen"/>cerning our manners and life, whether we be fit to receiue this Sacrament or no?</p>
+            <p>
+               <hi>A.</hi> By proouing our ſelues, whether wée be the members of Chriſt or no.</p>
+            <p>
+               <hi>Q.</hi> How ſhall we know this great ſecret and myſterie?</p>
+            <p>
+               <hi>A.</hi> If we haue Faith and Repentance.</p>
+            <p>
+               <hi>Q.</hi> How ſhal I diſcerne that I haue faith?</p>
+            <p>
+               <hi>A.</hi> If in my heart I be aſſuredly perſwa<g ref="char:EOLhyphen"/>ded by the working of the holy Spirit in me, that the puniſhment of my ſinne is fully diſcharged in Chriſt, and that whatſoeuer he hath done, pertaineth not only vnto others, but euen vnto me</p>
+            <p>
+               <hi>Q.</hi> How ſhall I know that I haue true Repentance?</p>
+            <p>
+               <hi>A.</hi> If I be inwardly and hartily ſorrow<g ref="char:EOLhyphen"/>full
+<pb facs="tcp:14884:13"/> for my ſinnes, and do moſt willing<g ref="char:EOLhyphen"/>ly confeſſe them vnto God, with full deliberation and purpoſe of amend<g ref="char:EOLhyphen"/>ment of life, and an earneſt deſire to mortifie and kill ſinne in me, and whol<g ref="char:EOLhyphen"/>ly to confirme my ſelfe to doe the will of God.</p>
+            <p>
+               <hi>Q.</hi> What if I finde not theſe thinges in me, what counſell giue you me than?</p>
+            <p>
+               <hi>A.</hi> Not to preſume to come to this Table of the Lord: for hée that eateth and drinketh vnworthily (that is without Faith and Repentance, whileſt he is a wicked liuer, a prophane perſon, a blaſ<g ref="char:EOLhyphen"/>phemer, and ſuch like, and hath not re<g ref="char:EOLhyphen"/>pented him of his ſinnes, with full pur<g ref="char:EOLhyphen"/>poſe to renounce them and liue alwaies afterwards in the feare of God) he ea<g ref="char:EOLhyphen"/>teth and drinketh his owne damnati<g ref="char:EOLhyphen"/>on, not diſcerning the Body of Chriſt aright.</p>
+            <p>
+               <hi>Q.</hi> Is it a thing left to our choyſe and li<g ref="char:EOLhyphen"/>berty whether we will come to the ſup<g ref="char:EOLhyphen"/>per or not?</p>
+            <p>
+               <hi>A.</hi> No, the holy Ghoſt in forbidding men to come thither vnworthily, comman<g ref="char:EOLhyphen"/>deth all that haue diſcretion and iudge<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:14884:14"/> to examine diligently, and pre<g ref="char:EOLhyphen"/>pare themſelues, that they may come worthily vnto it. So that if we abſent our ſelues and neglect this preparati<g ref="char:EOLhyphen"/>on, and making of our ſelues ready to come vnto it, let vs feare leaſt we be<g ref="char:EOLhyphen"/>come contemners of it, and ſo depriue our ſelues of that great benefite which is offered vnto vs by it.</p>
+            <p>
+               <hi>Q.</hi> Shew mée more plainely, how I may diſcerne whether I haue Faith or no?</p>
+            <p>
+               <hi>A.</hi> If Chriſt be in me.</p>
+            <p>
+               <hi>Q.</hi> How ſhall I know Chriſt to bée in me?</p>
+            <p>
+               <hi>A.</hi> By thrée benefites wherewith he com<g ref="char:EOLhyphen"/>meth vnto vs, Blood, Water, and the Spirit.</p>
+            <p>
+               <hi>Q.</hi> What is meant by Blood?</p>
+            <p>
+               <hi>A.</hi> Our iuſtification, conſiſting in Chriſt his righteouſnes, and the forgiueneſſe of ſinnes by his blood ſhedding.</p>
+            <p>
+               <hi>Q.</hi> What is meant by Water?</p>
+            <p>
+               <hi>A.</hi> Our ſanctification, when the Grace of God teacheth vs to deny vngodlineſſe, vnrighteouſnes and worldly luſts, and to liue godly, righteouſly and ſoberly
+<pb facs="tcp:14884:14"/> in this preſent world.</p>
+            <p>
+               <hi>Q.</hi> How ſhall wée know that we féele both this true mortifying or denying of ſinne, and true liuing to righteouſ<g ref="char:EOLhyphen"/>nes?</p>
+            <p>
+               <hi>A.</hi> When both from a true ſorrow, accor<g ref="char:EOLhyphen"/>ding to God, for euery thing we know forbidden of God (yea the leaſt) as all light Oathes, idle wordes, profitable lyes, or vaine actions, we féele a ſtudy to auoyde the firſt motions to them, &amp; clearing of our ſelues from all ſuſpiti<g ref="char:EOLhyphen"/>on of them by auoyding all apparance of euill: an indignation for all ſuch thinges paſt: a feare leaſt ſuch thinges by our corruption ſhould fall out a<g ref="char:EOLhyphen"/>gaine: a great deſire to preuent them: a zeale againſt them: a puniſhing of them, by exerciſing all due authoritie: which God hath giuen vs againſt ſin: as alſo a great ſtudy to ſpend all the reſt of our time, according to the will of God.</p>
+            <p>
+               <hi>Q.</hi> What is meant by the Spirit?</p>
+            <p>
+               <hi>A.</hi> That full aſſurance which the holy Ghoſt worketh in our hearts, that we are Gods Children, whereby we are
+<pb facs="tcp:14884:15"/> ſealed vnto the day of redemption that is fully aſſured that with all be kept by the power of God, through Faith vn<g ref="char:EOLhyphen"/>to ſaluation.</p>
+            <p>
+               <hi>Q.</hi> By what ordinary meanes is that true Faith and that which followeth it, wrought in vs?</p>
+            <p>
+               <hi>A.</hi> By the preaching of the Goſpell,</p>
+            <p>
+               <hi>Q.</hi> What is the cauſe that ſo many heare the preaching of the Goſpell, yea doe receiue it with ſome taſte, ioy and vn<g ref="char:EOLhyphen"/>derſtanding, and yet obtaine not this Faith and the fruit of it?</p>
+            <p>
+               <hi>A.</hi> The cauſe is, the vnchangeable pur<g ref="char:EOLhyphen"/>poſe of GOD from before all begin<g ref="char:EOLhyphen"/>nings, wherein he hath (being mooued onely by his holy will) appointed freely to chooſe ſome in Chriſt vnto ſaluation through Faith, for the praiſe of his rich grace, and iuſtly to caſt away o<g ref="char:EOLhyphen"/>thers, when they ſhould by their owne default deſerue the ſame.</p>
+            <p>
+               <hi>Q.</hi> What meanes beſides the ſeruice of God at home, muſt we vſe to exerciſe, confirme, and nouriſh this Faith and the fruites thereof?</p>
+            <p>
+               <hi>A.</hi> We muſt diligently vſe all the works
+<pb facs="tcp:14884:15"/> of the publike miniſtery, which are pre<g ref="char:EOLhyphen"/>ſcribed of God: as Prayer, Doctrine, exhortation, the Sacraments, and com<g ref="char:EOLhyphen"/>municating vnto the poore.</p>
+            <p>
+               <hi>Q.</hi> Becauſe our eſpeciall purpoſe in this worke is to intreate of the Sacra<g ref="char:EOLhyphen"/>ments: in concluſion, ſhew vs, and that plainely, when we come to the Supper of the Lord, how we muſt prepare our ſelues before, behaue our ſelues in the preſent worke, and reape fruite by it continually after?</p>
+            <p>
+               <hi>A.</hi> Before we muſt try our Faith and re<g ref="char:EOLhyphen"/>pentance, not onely whether they be true, but alſo how wée grow in them, what is the dulneſſe and weakneſſe of them, that we may the more ſeruently ſeeke the quickening and ſtrengthe<g ref="char:EOLhyphen"/>ning of them in this Sacrament: In the preſent worke, wée muſt haue in e<g ref="char:EOLhyphen"/>uery outward action, the inward fée<g ref="char:EOLhyphen"/>ling of that which was ſignified by it: as in putting apart of the Bread and Wine, wée muſt féele more aſſuredly that Chriſtes Body and Blood was put apart, by his Prayers to be the foode of our ſoules: by the breaking of the bread
+<pb facs="tcp:14884:16"/> and the powring foorth of the Wine, that his Body was Crucified, and his Blood ſhed for vs: by the giuing and receiuing of them, that his body and blood is preſently more liuelie giuen vnto vs, and receiued by faith: By the eating and drinking for the nouriſhing of our bodies, that our ſolues ſo ioyful<g ref="char:EOLhyphen"/>ly féede on Chriſt by faith, as wée are more fully aſſured of the forgiuenes of all our ſins, eſpecially particuler ſins, of greater grace to leaue them, of eter<g ref="char:EOLhyphen"/>nall life, in ſoule and bodie, as we doe with heauenly conſolation, ſing praiſes vnto GOD for the redemption of the world. Afterwards by the meditation hereof, we muſt be ſtrengthened in all temptations, which are againſt our iuſtification, and ſanctification.</p>
+            <p>
+               <hi>Q.</hi> What is Prayer?</p>
+            <p>
+               <hi>A.</hi> It is a petition, ioyned with an ear<g ref="char:EOLhyphen"/>neſt deſire, procéeding from the ac<g ref="char:EOLhyphen"/>knowledging of our neceſſity with hu<g ref="char:EOLhyphen"/>militie, repentance, and confeſſion of our vnworthines, made in a true con<g ref="char:EOLhyphen"/>uerſion vnto God and truſt of heauen<g ref="char:EOLhyphen"/>ly promiſes, for Chriſt our mediatour
+<pb facs="tcp:14884:16"/> his ſake: wherein we aſke thoſe things of God which he commaunded vs to aske of him in his word.</p>
+            <p>
+               <hi>Q.</hi> God knoweth before we aske what we neede, ſo that he néede not to be put in minde, he is not ſloathfull that he néede to be ſtirred vp, he hath appointed in his prouidence what he will beſtow, how and when: therefore why ſhould wee pray?</p>
+            <p>
+               <hi>A.</hi> Firſt to ſtirre vp our ſelues to ſéeke him: Secondly, to exerciſe our ſelues in meditating vpon his promiſes. Thirdly, that wée may diſcharge and vnloade our cares into the boſome of GOD. Fourthly, that we may te<g ref="char:EOLhyphen"/>ſtifie to our ſelues and others, that we hope, and aske for all good from God alone.</p>
+            <p>
+               <hi>Q.</hi> How many thinges ought wée to be carefull of in prayer?</p>
+            <p>
+               <hi>A.</hi> Firſt that we pray to God through Chriſt. Secondly, that we be inward<g ref="char:EOLhyphen"/>ly touched with the thing we pray for. Thirdly, that they be grounded vpon Gods promiſes. Fourthly, that we be not weary of prayer. Fiftly, that wée
+<pb facs="tcp:14884:17"/> pray according to that rule which God himſelfe giueth.</p>
+            <p>
+               <hi>Q.</hi> Rehearſe the Lords prayer?</p>
+            <p>
+               <hi>A.</hi> Our Father which art in Heauen, &amp;c.</p>
+            <p>
+               <hi>Q.</hi> How many principall parts are there of this Prayer?</p>
+            <p>
+               <hi>A.</hi> Firſt, a perſwaſion to prayer in theſe wordes: Our Father which art in hea<g ref="char:EOLhyphen"/>uen. Secondly, the ſumme of prayer contained in the ſixe Petitions. Third<g ref="char:EOLhyphen"/>ly, an aſſurance of that wée pray for in theſe wordes: For thine is the King<g ref="char:EOLhyphen"/>dome, &amp;c.</p>
+            <p>
+               <hi>Q.</hi> What perſwaſions haue you in theſe firſt wordes? Our Father which art in Heauen.</p>
+            <p>
+               <hi>A.</hi> Firſt, hée is a Father and no Tyrant to be fled from. Secondly, he is our Father and therfore loueth vs. Third<g ref="char:EOLhyphen"/>ly, Heauen is his throne, and therefore able to helpe vs.</p>
+            <p>
+               <hi>Q.</hi> How many thinges doe the ſixe peti<g ref="char:EOLhyphen"/>ons principally concerne?</p>
+            <p>
+               <hi>A.</hi> The firſt concerneth the glory of God contained in the thrée firſt Petitions. The ſecond concerneth the neceſſitie of man, ſet down in y<hi rend="sup">e</hi> laſt thrée petitions.</p>
+            <pb facs="tcp:14884:17"/>
+            <p>
+               <hi>Q.</hi> How deuide you this Prayer into ſix petitions?</p>
+            <p>
+               <hi>A.</hi> Firſt wée pray, Hallowed bée thy Name. Secondly, Thy Kingdome come. Thirdly, Thy will be done in earth, as it is in Heauen. Fourthly, Giue vs this day our dayly Bread. Fiftly, Forgiue vs our treſpaſſes, as we forgiue them that treſpaſſe againſt vs. Sixtly, Lead vs not into tempta<g ref="char:EOLhyphen"/>tion, but deliuer vs from euill.</p>
+            <p>
+               <hi>Q.</hi> What is the meaning, and what pray you for in the firſt petition?</p>
+            <p>
+               <hi>A.</hi> Firſt, this word Name ſignifieth his power, which comprehendeth his Mer<g ref="char:EOLhyphen"/>cy, Wiſdome, Iuſtice and prouidence: by Hallowed, a due reuerence to be yéelded to his name, and we pray that the Maieſty of God may be reuerenced by me and all men.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the ſecond Pe<g ref="char:EOLhyphen"/>tition?</p>
+            <p>
+               <hi>A.</hi> Firſt, that hée may raigne in our heartes by the Scepter of his word: Secondly, that by his holy Spirit hée will gouerne vs: Thirdly, that Sa<g ref="char:EOLhyphen"/>than and all our luſtes may be ouer<g ref="char:EOLhyphen"/>throwne:
+<pb facs="tcp:14884:18"/> Fourthly, that he will finiſh ſoone theſe dayes of ſinne, and take vs to his glory.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the third Pe<g ref="char:EOLhyphen"/>tition?</p>
+            <p>
+               <hi>A.</hi> Firſt, that our willes which are cor<g ref="char:EOLhyphen"/>rupt, may be pulled downe: Second<g ref="char:EOLhyphen"/>ly, that Gods will which is moſt iuſt may be exalted.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the fourth Pe<g ref="char:EOLhyphen"/>tition?</p>
+            <p>
+               <hi>A.</hi> Firſt, that God who gaue vs life, would preſerue it: Secondly, that he would direct vs to vſe thoſe meanes that be lawfull for preſeruing it: Thirdly, that he would giue vs con<g ref="char:EOLhyphen"/>tented mindes with that eſtate he pla<g ref="char:EOLhyphen"/>ced vs in.</p>
+            <p>
+               <hi>Q.</hi> What is meant by this word Bread?</p>
+            <p>
+               <hi>A.</hi> All thinges neceſſary for the mainte<g ref="char:EOLhyphen"/>nance of this life.</p>
+            <p>
+               <hi>Q.</hi> What néedeth the rich man dayly to pray for dayly bread, who hath enough for many yeares?</p>
+            <p>
+               <hi>A.</hi> Firſt, hée is to pray for the poore as for himſelfe: Secondly, his ſubſtance and dainties ſhall doe him no good without
+<pb facs="tcp:14884:18"/> Gods bleſſing.</p>
+            <p>
+               <hi>Q.</hi> What pray you for in the fifth Peti<g ref="char:EOLhyphen"/>tion?</p>
+            <p>
+               <hi>A.</hi> Firſt, that God would forgiue vs our treſpaſſes: Secondly, that wée may be directed by him to forgiue one another.</p>
+            <p>
+               <hi>Q.</hi> What learne you out of it?</p>
+            <p>
+               <hi>A.</hi> Firſt, that all men are ſinners: Se<g ref="char:EOLhyphen"/>condly, man muſt ſeeke for forgiue<g ref="char:EOLhyphen"/>neſſe, for he cannot ſatisfie: Thirdly, none can forgiue ſinnes but God: Fourthly, to the enuious man there is no forgiueneſſe.</p>
+            <p>
+               <hi>Q.</hi> In the ſixt Petition what pray you for?</p>
+            <p>
+               <hi>A.</hi> Wée pray that wée be no further tempted, than God giueth vs power to beare.</p>
+            <p>
+               <hi>Q.</hi> What is meant by Lead vs not into temptation?</p>
+            <p>
+               <hi>A.</hi> Firſt, that God would not ſuffer vs to be ouercome by the deſires of the Fleſh, the World and the Deuill.</p>
+            <p>
+               <hi>Q.</hi> What is meant by, Deliuer vs from euill?</p>
+            <p>
+               <hi>A.</hi> We pray that God would ſtrengthen
+<pb facs="tcp:14884:19"/> vs, and giue vs victory in all our temp<g ref="char:EOLhyphen"/>tations.</p>
+            <p>
+               <hi>Q.</hi> What learne you in this Petition?</p>
+            <p>
+               <hi>A.</hi> Firſt, that all Chriſtians are in warres and haue néede to watch: Se<g ref="char:EOLhyphen"/>condly, wée are all weake and haue néede of helpe: Thirdly, that Sathan can doe nothing vnleſſe God giue leaue: Fourthly, the Lord is our deli<g ref="char:EOLhyphen"/>uerer from all temptation.</p>
+            <p>
+               <hi>Q.</hi> What learne you of the concluſion, Thine is the Kingdome, &amp;c.</p>
+            <p>
+               <hi>A.</hi> Firſt, theſe wordes doe kindle our hearts to deſire the glory of God: Se<g ref="char:EOLhyphen"/>condly, to ground vpon none, but God: Thirdly, that his Kingdome is migh<g ref="char:EOLhyphen"/>ty and euerlaſting.</p>
+            <p>
+               <hi>Q.</hi> What meaneth this word, <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It ſheweth a feruent deſire to haue that I aske, and it is an aſſurance to my Conſcience, that I ſhall haue that I aske.</p>
+            <trailer>FINIS.</trailer>
+            <closer>Giue God the Glory.</closer>
+            <pb facs="tcp:14884:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
